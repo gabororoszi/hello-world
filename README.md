@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I am learning C# and I like it so far. I am a begginer in programming.
